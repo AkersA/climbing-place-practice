@@ -3,8 +3,10 @@
     text-decoration: none;
     list-style-type: none;
     box-sizing: border-box;
+    
 }
 
 li{
-    
+    box-sizing: border-box;
+    border: solid 2px black;
 } 
