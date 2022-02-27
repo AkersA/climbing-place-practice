@@ -1,11 +1,10 @@
 *{
     color: red;
     text-decoration: none;
+    list-style-type: none;
+    box-sizing: border-box;
 }
 
 li{
-    list-style-type: none;
-    box-sizing: border-box;
-    border: solid 5px black;
-    float: left;
+    
 } 
