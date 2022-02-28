@@ -14,5 +14,9 @@
 }
 
 a{
+    color: white;
+    box-sizing: border-box;
+    border 5px solid black;
+    
     float: left;
 } 
