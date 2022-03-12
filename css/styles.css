@@ -2,11 +2,9 @@
     text-decoration: none;
     list-style-type: none;
     box-sizing: border-box;
-    
 }
 
 #nav{
-    box-sizing: border-box;
     width: 100%;
     background: blue;
     float: left;
