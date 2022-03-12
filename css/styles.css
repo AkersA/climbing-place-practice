@@ -17,7 +17,8 @@ a{
     color: white;
     box-sizing: border-box;
     border: 2px solid black;
-    width: 20%;
+    margin-right: 2%;
+    width: 18%;
     float: left;
     text-align: center;
 } 
