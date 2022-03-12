@@ -8,7 +8,6 @@
 #nav{
     box-sizing: border-box;
     width: 100%;
-    border: 5px solid blue;
     background: blue;
     float: left;
 }
@@ -17,7 +16,7 @@ a{
     color: white;
     box-sizing: border-box;
     border: 2px solid black;
-    margin-right: 2%;
+    margin: 1%;
     width: 18%;
     float: left;
     text-align: center;
