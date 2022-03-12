@@ -8,7 +8,7 @@
 #nav{
     box-sizing: border-box;
     width: 100%;
-    border: 5px solid blue;
+    border: solid blue;
     background: blue;
     float: left;
 }
