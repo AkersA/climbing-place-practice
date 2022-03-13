@@ -2,6 +2,7 @@
     text-decoration: none;
     list-style-type: none;
     box-sizing: border-box;
+    background-color: darkblue;
     margin: 0;
 }
 
@@ -12,7 +13,10 @@
 }
 
 a{
+    float: left;
     color: white;
+}
+#page{
     border: 2px solid black;
     margin: 1%;
     width: 18%;
