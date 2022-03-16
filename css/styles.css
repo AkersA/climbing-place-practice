@@ -18,6 +18,8 @@
 
 #page{
     disply: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
     border: 2px solid black;
     color: white;
     margin: 1%;
