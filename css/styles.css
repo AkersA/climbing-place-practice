@@ -12,7 +12,7 @@
 
 #nav-elem{
     /*float: left;*/
-    justify-content: space-evenly;
+    justify-content: center, space-evenly;
 }
 
 #page{
