@@ -9,19 +9,15 @@
 #nav{
     width: 100%;
     /*background: blue;*/
-    float: left;
+    /*float: left;*/
 }
-.sMlogo{
-    
-}
+
 #nav-elem{
-    float: left;
+    /*float: left;*/
 }
-a{
-   /* float: left;
-    color: white;*/
-}
+
 #page{
+    disply: flex;
     border: 2px solid black;
     color: white;
     margin: 1%;
