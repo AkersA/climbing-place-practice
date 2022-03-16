@@ -8,8 +8,6 @@
 
 #nav{
     width: 100%;
-    /*background: blue;*/
-    /*float: left;*/
 }
 
 #nav-elem{
@@ -25,4 +23,5 @@
     margin: 1%;
     width: 14%;
     text-align: center;
+    border-bottom-color: green;
 } 
